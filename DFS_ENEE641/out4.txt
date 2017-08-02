@@ -1,0 +1,4 @@
+38 7 2 11 23 12 31 13 5 19 22 3 40 18 30 15 32 21 14 24 6 17 28 33 16 4 20 8 1 26 25 9 37 29 34 10 35 27 36 39 
+Total number of operations charged to all vertices is : 71
+Total number of operations charged to edges is : 163
+Total number of operations is : 234

@@ -1,0 +1,4 @@
+This graph has a cycle!
+Total number of operations charged to all vertices is : 14
+Total number of operations charged to edges is : 14
+Total number of operations is : 28
